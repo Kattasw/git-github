@@ -1,2 +1,2 @@
 Welcome git
- new modited file 
+ new modifed file 
